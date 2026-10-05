@@ -1,0 +1,9 @@
+torch==2.14.1
+nltk==3.10.3
+gensim==4.4.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.6
+spacy==3.8.16
+jupyter
